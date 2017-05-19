@@ -1,0 +1,6 @@
+version: '2'
+
+services:
+  dockerized-h2:
+    build: .
+    image: mufasa1976/dockerized-h2
